@@ -1,0 +1,71 @@
+newmtl UModeler_RulerGrid_Gray
+Ka 1 1 1
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d 1
+Ns  0.0
+illum 2
+map_Kd UModeler_ruler_grid_gray.png
+
+newmtl ConcreteBare0330_7_seamless_S
+Ka 1 1 1
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d 1
+Ns  0.0
+illum 2
+map_Kd ConcreteBare0330_7_seamless_S.png
+
+newmtl RooftilesBitumen0011_1_seamless_S
+Ka 1 1 1
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d 1
+Ns  0.0
+illum 2
+map_Kd RooftilesBitumen0011_1_seamless_S.jpg
+
+newmtl Ground036_1K-JPG
+Ka 0.9056604 0.9056604 0.9056604
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d 1
+Ns  0.0
+illum 2
+map_Kd Ground036_1K_Color.jpg
+
+newmtl Metal019_1K-JPG
+Ka 1 1 1
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d 1
+Ns  0.0
+illum 2
+map_Kd Metal019_1K_Color.jpg
+
+newmtl WindowsBlocks0055_1_seamless_S
+Ka 1 1 1
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d 1
+Ns  0.0
+illum 2
+map_Kd WindowsBlocks0055_1_seamless_S.jpg
+
+newmtl ConcreteBare0330_7_seamless_S 1
+Ka 0.3773585 0.3773585 0.3773585
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d 1
+Ns  0.0
+illum 2
+map_Kd ConcreteBare0330_7_seamless_S.png
+
+newmtl Black
+Ka 0 0 0
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d 1
+Ns  0.0
+illum 2
+

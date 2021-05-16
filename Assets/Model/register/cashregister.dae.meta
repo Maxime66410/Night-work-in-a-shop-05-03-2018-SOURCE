@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: 896e3e05161a2954cbe1377fd0fd9049
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: base
+    100002: calcbuttons
+    100004: Camera
+    100006: //RootNode
+    100008: Circle_001
+    100010: cointray
+    100012: custombuttons
+    100014: drawer
+    100016: Lamp
+    100018: modebuttons
+    100020: operationbuttons
+    100022: percentbuttons
+    100024: receiptbuttons
+    100026: receiptprinter
+    100028: tillbody
+    400000: base
+    400002: calcbuttons
+    400004: Camera
+    400006: //RootNode
+    400008: Circle_001
+    400010: cointray
+    400012: custombuttons
+    400014: drawer
+    400016: Lamp
+    400018: modebuttons
+    400020: operationbuttons
+    400022: percentbuttons
+    400024: receiptbuttons
+    400026: receiptprinter
+    400028: tillbody
+    2000000: Camera
+    2100000: Material
+    2100002: display
+    2100004: displayemployee
+    2100006: displaycustomer
+    2100008: WI_logo
+    2100010: receipt
+    2100012: buttons
+    2100014: numberbuttons
+    2100016: bluebuttons
+    2100018: drawerbuttons
+    2100020: percentilebuttons
+    2100022: altbuttons
+    2100024: atct
+    2100026: btnspecial
+    2100028: btndiscount
+    2100030: cointray
+    2300000: base
+    2300002: calcbuttons
+    2300004: Circle_001
+    2300006: cointray
+    2300008: custombuttons
+    2300010: drawer
+    2300012: modebuttons
+    2300014: operationbuttons
+    2300016: percentbuttons
+    2300018: receiptbuttons
+    2300020: receiptprinter
+    2300022: tillbody
+    3300000: base
+    3300002: calcbuttons
+    3300004: Circle_001
+    3300006: cointray
+    3300008: custombuttons
+    3300010: drawer
+    3300012: modebuttons
+    3300014: operationbuttons
+    3300016: percentbuttons
+    3300018: receiptbuttons
+    3300020: receiptprinter
+    3300022: tillbody
+    4300000: tillbody
+    4300002: receiptprinter
+    4300004: calcbuttons
+    4300006: receiptbuttons
+    4300008: percentbuttons
+    4300010: operationbuttons
+    4300012: custombuttons
+    4300014: modebuttons
+    4300016: Circle_001
+    4300018: base
+    4300020: drawer
+    4300022: cointray
+    10800000: Lamp
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

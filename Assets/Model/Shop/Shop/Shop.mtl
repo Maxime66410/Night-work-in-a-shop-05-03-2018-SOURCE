@@ -1,0 +1,153 @@
+newmtl UModeler_RulerGrid_Gray
+Ka 1 1 1
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d 1
+Ns  0.0
+illum 2
+map_Kd UModeler_ruler_grid_gray.png
+
+newmtl WoodFloor041_1K-JPG
+Ka 1 1 1
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d 1
+Ns  0.0
+illum 2
+map_Kd WoodFloor041_1K_Color.jpg
+
+newmtl Concrete034_1K-JPG
+Ka 1 1 1
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d 1
+Ns  0.0
+illum 2
+map_Kd Concrete034_1K_Color.jpg
+
+newmtl Wood058_1K-JPG
+Ka 1 1 1
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d 1
+Ns  0.0
+illum 2
+map_Kd Wood058_1K_Color.jpg
+
+newmtl OfficeCeiling001_1K-JPG
+Ka 1 1 1
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d 1
+Ns  0.0
+illum 2
+map_Kd OfficeCeiling001_1K_Color.jpg
+
+newmtl Bricks051_1K-JPG
+Ka 1 1 1
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d 1
+Ns  0.0
+illum 2
+map_Kd Bricks051_1K_Color.jpg
+
+newmtl Marble007_1K_Color
+Ka 1 1 1
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d 1
+Ns  0.0
+illum 2
+map_Kd Marble007_1K_Color.jpg
+
+newmtl Wood041_1K-JPG
+Ka 1 1 1
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d 1
+Ns  0.0
+illum 2
+map_Kd Wood041_1K_Color.jpg
+
+newmtl Plaster003_1K-JPG
+Ka 1 1 1
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d 1
+Ns  0.0
+illum 2
+map_Kd Plaster003_1K_Color.jpg
+
+newmtl WoodFloor007_1K-JPG
+Ka 1 1 1
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d 1
+Ns  0.0
+illum 2
+map_Kd WoodFloor007_1K_Color.jpg
+
+newmtl Tiles036_1K-JPG
+Ka 1 1 1
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d 1
+Ns  0.0
+illum 2
+map_Kd Tiles036_1K_Color.jpg
+
+newmtl Concrete029_1K-JPG
+Ka 1 1 1
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d 1
+Ns  0.0
+illum 2
+map_Kd Concrete029_1K_Color.jpg
+
+newmtl Clay001_2K-JPG
+Ka 1 1 1
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d 1
+Ns  0.0
+illum 2
+map_Kd Clay001_2K_Color.jpg
+
+newmtl WoodFloor036_1K-JPG
+Ka 1 1 1
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d 1
+Ns  0.0
+illum 2
+map_Kd WoodFloor036_1K_Color.jpg
+
+newmtl Fabric034_1K-JPG
+Ka 1 1 1
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d 1
+Ns  0.0
+illum 2
+map_Kd Fabric034_1K_Color.jpg
+
+newmtl Wood011_1K-JPG
+Ka 1 1 1
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d 1
+Ns  0.0
+illum 2
+map_Kd Wood011_1K_Color.jpg
+
+newmtl Bloc Glass
+Ka 1 1 1
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d 1
+Ns  0.0
+illum 2
+map_Kd Bloc Glass.png
+

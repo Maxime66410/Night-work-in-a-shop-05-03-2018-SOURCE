@@ -1,0 +1,337 @@
+fileFormatVersion: 2
+guid: 804b1f290b9f97c4aa8429dd5fc04d54
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: dress2_276
+    100002: dress2_278
+    100004: dress2_280
+    100006: dress2_281
+    100008: dress2_284
+    100010: dress2_285
+    100012: dress2_287
+    100014: dress2_289
+    100016: dress2_290
+    100018: dress2_292
+    100020: dress2_294
+    100022: dress2_295
+    100024: dress2_297
+    100026: dress2_299
+    100028: dress2_300
+    100030: dress2_301
+    100032: hanger282
+    100034: hanger283
+    100036: hanger284
+    100038: hanger285
+    100040: hanger286
+    100042: hanger287
+    100044: hanger288
+    100046: hanger289
+    100048: hanger290
+    100050: hanger291
+    100052: hanger292
+    100054: hanger293
+    100056: hanger294
+    100058: hanger295
+    100060: hanger296
+    100062: hanger297
+    100064: hanger298
+    100066: hanger299
+    100068: hanger300
+    100070: hanger301
+    100072: hanger302
+    100074: hanger303
+    100076: hanger304
+    100078: hanger305
+    100080: hanger306
+    100082: hanger307
+    100084: hanger308
+    100086: hanger309
+    100088: rack angl0
+    100090: rack angl1
+    100092: rack angl2
+    100094: rack angl3
+    100096: rack angle
+    100098: //RootNode
+    400000: dress2_276
+    400002: dress2_278
+    400004: dress2_280
+    400006: dress2_281
+    400008: dress2_284
+    400010: dress2_285
+    400012: dress2_287
+    400014: dress2_289
+    400016: dress2_290
+    400018: dress2_292
+    400020: dress2_294
+    400022: dress2_295
+    400024: dress2_297
+    400026: dress2_299
+    400028: dress2_300
+    400030: dress2_301
+    400032: hanger282
+    400034: hanger283
+    400036: hanger284
+    400038: hanger285
+    400040: hanger286
+    400042: hanger287
+    400044: hanger288
+    400046: hanger289
+    400048: hanger290
+    400050: hanger291
+    400052: hanger292
+    400054: hanger293
+    400056: hanger294
+    400058: hanger295
+    400060: hanger296
+    400062: hanger297
+    400064: hanger298
+    400066: hanger299
+    400068: hanger300
+    400070: hanger301
+    400072: hanger302
+    400074: hanger303
+    400076: hanger304
+    400078: hanger305
+    400080: hanger306
+    400082: hanger307
+    400084: hanger308
+    400086: hanger309
+    400088: rack angl0
+    400090: rack angl1
+    400092: rack angl2
+    400094: rack angl3
+    400096: rack angle
+    400098: //RootNode
+    2100000: ',Black_'
+    2300000: dress2_276
+    2300002: dress2_278
+    2300004: dress2_280
+    2300006: dress2_281
+    2300008: dress2_284
+    2300010: dress2_285
+    2300012: dress2_287
+    2300014: dress2_289
+    2300016: dress2_290
+    2300018: dress2_292
+    2300020: dress2_294
+    2300022: dress2_295
+    2300024: dress2_297
+    2300026: dress2_299
+    2300028: dress2_300
+    2300030: dress2_301
+    2300032: hanger282
+    2300034: hanger283
+    2300036: hanger284
+    2300038: hanger285
+    2300040: hanger286
+    2300042: hanger287
+    2300044: hanger288
+    2300046: hanger289
+    2300048: hanger290
+    2300050: hanger291
+    2300052: hanger292
+    2300054: hanger293
+    2300056: hanger294
+    2300058: hanger295
+    2300060: hanger296
+    2300062: hanger297
+    2300064: hanger298
+    2300066: hanger299
+    2300068: hanger300
+    2300070: hanger301
+    2300072: hanger302
+    2300074: hanger303
+    2300076: hanger304
+    2300078: hanger305
+    2300080: hanger306
+    2300082: hanger307
+    2300084: hanger308
+    2300086: hanger309
+    2300088: rack angl0
+    2300090: rack angl1
+    2300092: rack angl2
+    2300094: rack angl3
+    2300096: rack angle
+    3300000: dress2_276
+    3300002: dress2_278
+    3300004: dress2_280
+    3300006: dress2_281
+    3300008: dress2_284
+    3300010: dress2_285
+    3300012: dress2_287
+    3300014: dress2_289
+    3300016: dress2_290
+    3300018: dress2_292
+    3300020: dress2_294
+    3300022: dress2_295
+    3300024: dress2_297
+    3300026: dress2_299
+    3300028: dress2_300
+    3300030: dress2_301
+    3300032: hanger282
+    3300034: hanger283
+    3300036: hanger284
+    3300038: hanger285
+    3300040: hanger286
+    3300042: hanger287
+    3300044: hanger288
+    3300046: hanger289
+    3300048: hanger290
+    3300050: hanger291
+    3300052: hanger292
+    3300054: hanger293
+    3300056: hanger294
+    3300058: hanger295
+    3300060: hanger296
+    3300062: hanger297
+    3300064: hanger298
+    3300066: hanger299
+    3300068: hanger300
+    3300070: hanger301
+    3300072: hanger302
+    3300074: hanger303
+    3300076: hanger304
+    3300078: hanger305
+    3300080: hanger306
+    3300082: hanger307
+    3300084: hanger308
+    3300086: hanger309
+    3300088: rack angl0
+    3300090: rack angl1
+    3300092: rack angl2
+    3300094: rack angl3
+    3300096: rack angle
+    4300000: rack angle
+    4300002: hanger289
+    4300004: rack angl0
+    4300006: dress2_284
+    4300008: hanger290
+    4300010: hanger291
+    4300012: hanger292
+    4300014: hanger293
+    4300016: hanger294
+    4300018: dress2_285
+    4300020: dress2_287
+    4300022: hanger295
+    4300024: dress2_289
+    4300026: hanger282
+    4300028: hanger283
+    4300030: hanger284
+    4300032: hanger285
+    4300034: hanger286
+    4300036: hanger287
+    4300038: dress2_295
+    4300040: dress2_278
+    4300042: dress2_280
+    4300044: dress2_281
+    4300046: hanger288
+    4300048: rack angl1
+    4300050: hanger303
+    4300052: rack angl2
+    4300054: hanger304
+    4300056: hanger305
+    4300058: hanger306
+    4300060: hanger307
+    4300062: dress2_297
+    4300064: dress2_299
+    4300066: hanger308
+    4300068: dress2_300
+    4300070: dress2_301
+    4300072: hanger309
+    4300074: hanger296
+    4300076: hanger297
+    4300078: hanger298
+    4300080: hanger299
+    4300082: hanger300
+    4300084: hanger301
+    4300086: dress2_290
+    4300088: dress2_292
+    4300090: dress2_294
+    4300092: rack angl3
+    4300094: hanger302
+    4300096: dress2_276
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
