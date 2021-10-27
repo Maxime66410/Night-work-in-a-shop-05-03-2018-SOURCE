@@ -32,7 +32,7 @@ public class CameraSystem : MonoBehaviour {
     {
         audioSource.clip = audioClip;
 
-        for (int a = 0; a <= cameras.Length; a++)
+        for (int a = 0; a < cameras.Length; a++)
         {
             cameras[a].enabled = false;
         }

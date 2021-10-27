@@ -9,7 +9,7 @@ public class TapeEvent : MonoBehaviour {
 
     public void Start()
     {
-        for(i = 0; i <= pickupTape.Length; i++)
+        for(i = 0; i < pickupTape.Length; i++)
         {
             pickupTape[i].SetActive(true);
         }
